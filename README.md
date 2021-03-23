@@ -5,10 +5,10 @@
 Php yazılım zaafiyeti korumasıdır.
 
 ## Engellenenler;
-> Php version \n
-> Xss Açıkları
-> Sql İnjection
-> Hsts kuralı
+> Php version,
+> Xss Açıkları,
+> Sql İnjection,
+> Hsts kuralı,
 
 ## Nasıl kullanılır;
 
