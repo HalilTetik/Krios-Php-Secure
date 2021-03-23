@@ -5,7 +5,7 @@
 Php yazılım zaafiyeti korumasıdır.
 
 ## Engellenenler;
-> Php version
+> Php version \n
 > Xss Açıkları
 > Sql İnjection
 > Hsts kuralı
