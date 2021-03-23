@@ -9,6 +9,8 @@ Php yazılım zaafiyeti korumasıdır.
 > Xss Açıkları,
 > Sql İnjection,
 > Hsts kuralı,
+> Click jacking,
+> 1700 Kötü Bot Koruması.
 
 ## Nasıl kullanılır;
 
